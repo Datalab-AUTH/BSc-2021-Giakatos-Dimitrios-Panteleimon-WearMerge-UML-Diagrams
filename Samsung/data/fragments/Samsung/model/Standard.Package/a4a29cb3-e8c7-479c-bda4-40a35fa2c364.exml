@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="samsung" version="4">
+  <OBJECT>
+    <ID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
+    <PID name="Samsung" mc="Standard.Project" uid="e8be18c9-a051-4bea-b81b-f72a66e03021"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[samsung]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="cycle.flow" mc="Standard.Class" uid="490bc49f-3172-4ccc-bcbb-21d837b5fbfd"/>
+        <COMPID name="cycle.profile" mc="Standard.Class" uid="974eef76-9924-418b-8b22-c054f77ab692"/>
+        <COMPID name="device_profile" mc="Standard.Class" uid="1788e6e1-3c6c-4acd-b30b-8859d226b895"/>
+        <COMPID name="floors_climbed" mc="Standard.Class" uid="e75b03bf-b420-47c8-ad31-ecb2e369bacf"/>
+        <COMPID name="food_info" mc="Standard.Class" uid="905b3948-88fc-479d-865f-56f64374f1ec"/>
+        <COMPID name="food_intake" mc="Standard.Class" uid="66b4bd67-2fbf-4b13-b21f-ee75fe93e8bd"/>
+        <COMPID name="height" mc="Standard.Class" uid="7c76a056-2188-46b3-a943-8287aebfffdb"/>
+        <COMPID name="nutrition" mc="Standard.Class" uid="b61b6cf2-db1e-44f6-aa66-67a5719ac612"/>
+        <COMPID name="sleep_stage" mc="Standard.Class" uid="3a35776b-808f-4a48-8aee-b3a25f420583"/>
+        <COMPID name="user_profile" mc="Standard.Class" uid="31620885-9dfa-4646-bf4c-6ff041659d10"/>
+        <COMPID name="water_intake" mc="Standard.Class" uid="da5af658-3293-4af8-a61b-e9c4890da623"/>
+        <COMPID name="weight" mc="Standard.Class" uid="14bc185d-722f-4064-8540-6c2a74966377"/>
+        <COMPID name="activity_level" mc="Standard.Class" uid="ff7b3fae-5411-41a5-b1de-92cda113d080"/>
+        <COMPID name="activity.day_summary" mc="Standard.Class" uid="45d96e18-6ef8-4165-bddb-f14c98447277"/>
+        <COMPID name="activity.goal" mc="Standard.Class" uid="58dfafec-f13c-4712-af8b-4f0c1ebe91b9"/>
+        <COMPID name="best_records" mc="Standard.Class" uid="707eb476-14c9-4794-9317-f4e5a87f8787"/>
+        <COMPID name="breathing" mc="Standard.Class" uid="6286bbb7-e188-4e22-8e57-0bff1ac3bf43"/>
+        <COMPID name="caloric_balance_goal" mc="Standard.Class" uid="40faac22-e994-47ee-87d2-093e67b14f83"/>
+        <COMPID name="calories_burned.details" mc="Standard.Class" uid="0db2fc02-941f-44b8-a0a6-947ad232b6f3"/>
+        <COMPID name="cycle.prediction" mc="Standard.Class" uid="28f66b36-5a87-450c-97ae-71cbbae714eb"/>
+        <COMPID name="daily_activity.goal" mc="Standard.Class" uid="befe0468-5831-461f-a31e-de0d1c7d4833"/>
+        <COMPID name="exercise" mc="Standard.Class" uid="55cc24c5-ede2-41c1-bf8a-78addce6f7b4"/>
+        <COMPID name="exercise.weather" mc="Standard.Class" uid="c74950e1-5aeb-4380-8066-47d1ef153191"/>
+        <COMPID name="food_favorite" mc="Standard.Class" uid="eeb8ba85-ba7a-413a-bda8-21ebf18a624a"/>
+        <COMPID name="food_frequent" mc="Standard.Class" uid="8c6a770a-7894-4745-a584-74bba9150059"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Galaxy Watch Class diagram" mc="Standard.ClassDiagram" uid="9d73a931-ae49-4399-a8fc-f8f947ba6b91"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Samsung" version="4">
+  <OBJECT>
+    <ID name="Samsung" mc="Infrastructure.DiagramSet" uid="52f6db4b-2628-442d-9dc7-6a81b7f52c8e"/>
+    <PID name="Samsung" mc="Standard.Project" uid="e8be18c9-a051-4bea-b81b-f72a66e03021"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Samsung]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
