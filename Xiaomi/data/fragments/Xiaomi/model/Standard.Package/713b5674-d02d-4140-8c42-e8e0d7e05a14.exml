@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="xiaomi" version="4">
+  <OBJECT>
+    <ID name="xiaomi" mc="Standard.Package" uid="713b5674-d02d-4140-8c42-e8e0d7e05a14"/>
+    <PID name="Xiaomi" mc="Standard.Project" uid="770ed04c-e619-4bb2-9952-1e1e00df8d05"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[xiaomi]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ACTIVITY" mc="Standard.Class" uid="fa053787-1973-4a91-b1b2-ba3428a7b3b6"/>
+        <COMPID name="ACTIVITY_MINUTE" mc="Standard.Class" uid="9eca3690-d4a4-4b2d-b8c0-157be32b6803"/>
+        <COMPID name="ACTIVITY_STAGE" mc="Standard.Class" uid="b0fb39b6-296b-454e-a4ca-b822ef3c4f86"/>
+        <COMPID name="BODY" mc="Standard.Class" uid="f18932e3-b266-4cee-8e82-c298ac696107"/>
+        <COMPID name="HEARTRATE" mc="Standard.Class" uid="ec5ac219-163a-4a02-9bd8-2b3483a541ba"/>
+        <COMPID name="HEARTRATE_AUTO" mc="Standard.Class" uid="c5c0ff76-989d-40cc-8d1a-a315ad702471"/>
+        <COMPID name="SLEEP" mc="Standard.Class" uid="41c21465-c0e8-4b5a-8c16-be40ff493feb"/>
+        <COMPID name="SPORT" mc="Standard.Class" uid="e857504d-2edf-4c42-ad8d-cbe3a0330498"/>
+        <COMPID name="USER" mc="Standard.Class" uid="28dbe5b8-49fb-4ce8-b50b-cfe9e7a0369a"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Xiaomi Mi Smart Band 4 Class diagram" mc="Standard.ClassDiagram" uid="50428db7-683e-40ed-91c5-52d08612aa90"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

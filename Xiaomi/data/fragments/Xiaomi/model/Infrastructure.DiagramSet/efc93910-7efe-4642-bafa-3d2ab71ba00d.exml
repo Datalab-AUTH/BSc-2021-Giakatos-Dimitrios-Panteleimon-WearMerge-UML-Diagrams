@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Xiaomi" version="4">
+  <OBJECT>
+    <ID name="Xiaomi" mc="Infrastructure.DiagramSet" uid="efc93910-7efe-4642-bafa-3d2ab71ba00d"/>
+    <PID name="Xiaomi" mc="Standard.Project" uid="770ed04c-e619-4bb2-9952-1e1e00df8d05"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Xiaomi]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

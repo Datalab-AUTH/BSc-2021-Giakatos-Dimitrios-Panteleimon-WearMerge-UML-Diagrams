@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Xiaomi" version="4">
+  <OBJECT>
+    <ID name="Xiaomi" mc="Standard.Project" uid="770ed04c-e619-4bb2-9952-1e1e00df8d05"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Xiaomi]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="xiaomi" mc="Standard.Package" uid="713b5674-d02d-4140-8c42-e8e0d7e05a14"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Xiaomi" mc="Infrastructure.DiagramSet" uid="efc93910-7efe-4642-bafa-3d2ab71ba00d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
