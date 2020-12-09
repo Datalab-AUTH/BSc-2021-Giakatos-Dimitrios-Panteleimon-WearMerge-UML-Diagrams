@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="weight" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S1.weight" version="4">
   <OBJECT>
-    <ID name="weight" mc="Standard.Class" uid="14bc185d-722f-4064-8540-6c2a74966377"/>
+    <ID name="S1.weight" mc="Standard.Class" uid="14bc185d-722f-4064-8540-6c2a74966377"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[weight]]></ATT>
+      <ATT name="Name"><![CDATA[S1.weight]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

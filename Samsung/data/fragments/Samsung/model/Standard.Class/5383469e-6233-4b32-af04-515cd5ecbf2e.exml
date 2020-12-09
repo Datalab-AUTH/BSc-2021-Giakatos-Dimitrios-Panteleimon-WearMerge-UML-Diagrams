@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.activity_level" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.tracker.pedometer_recommendation" version="4">
   <OBJECT>
-    <ID name="S2.activity_level" mc="Standard.Class" uid="ff7b3fae-5411-41a5-b1de-92cda113d080"/>
+    <ID name="S2.tracker.pedometer_recommendation" mc="Standard.Class" uid="5383469e-6233-4b32-af04-515cd5ecbf2e"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,61 +11,13 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[S2.activity_level]]></ATT>
+      <ATT name="Name"><![CDATA[S2.tracker.pedometer_recommendation]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="activity_level" mc="Standard.Attribute" uid="e99d6e1e-49a6-4fd1-8ff4-00ebdd94d34c"/>
-          <ATTRIBUTES>
-            <ATT name="TypeConstraint"></ATT>
-            <ATT name="Value"></ATT>
-            <ATT name="TargetIsClass">false</ATT>
-            <ATT name="Changeable">ReadWrite</ATT>
-            <ATT name="IsDerived">false</ATT>
-            <ATT name="IsOrdered">false</ATT>
-            <ATT name="IsUnique">false</ATT>
-            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
-            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="IsClass">false</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[activity_level]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="Type">
-              <FOREIGNID name="integer" mc="Standard.DataType" uid="00000004-0000-0009-0000-000000000000"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
-          <ID name="start_time" mc="Standard.Attribute" uid="d7041c77-9a07-48d7-8867-8f58123eec37"/>
-          <ATTRIBUTES>
-            <ATT name="TypeConstraint"></ATT>
-            <ATT name="Value"></ATT>
-            <ATT name="TargetIsClass">false</ATT>
-            <ATT name="Changeable">ReadWrite</ATT>
-            <ATT name="IsDerived">false</ATT>
-            <ATT name="IsOrdered">false</ATT>
-            <ATT name="IsUnique">false</ATT>
-            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
-            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="IsClass">false</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[start_time]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="Type">
-              <FOREIGNID name="date" mc="Standard.DataType" uid="00000004-0000-0014-0000-000000000000"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
-          <ID name="update_time" mc="Standard.Attribute" uid="6007c8e9-a91b-42ec-9e14-2a873be8516c"/>
+          <ID name="update_time" mc="Standard.Attribute" uid="b855e500-1fa1-4950-a4ee-2c46536183d2"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -89,7 +41,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="create_time" mc="Standard.Attribute" uid="e3d5d044-dd11-4a25-a54d-868e180a645b"/>
+          <ID name="create_time" mc="Standard.Attribute" uid="62c0c4f9-165e-4583-bdd5-2ee60499621a"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -113,7 +65,31 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="time_offset" mc="Standard.Attribute" uid="2874fbce-8aa0-4eb8-b5f4-41df55539748"/>
+          <ID name="value" mc="Standard.Attribute" uid="0f589c4a-7f9a-4bc1-9e6c-8fe4379d1762"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[value]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <FOREIGNID name="float" mc="Standard.DataType" uid="00000004-0000-000b-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="time_offset" mc="Standard.Attribute" uid="ee1cbcd3-b40b-46c4-bd1a-c0925854ced1"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -137,7 +113,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="deviceuuid" mc="Standard.Attribute" uid="3bd4e4ca-596b-4eae-bf41-ac1a46befff6"/>
+          <ID name="deviceuuid" mc="Standard.Attribute" uid="9d3418a5-936a-47b4-8097-35328b4c0a99"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -161,7 +137,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="pkg_name" mc="Standard.Attribute" uid="e9a75cdc-848b-49ec-a6ed-f059dd8d6ed0"/>
+          <ID name="pkg_name" mc="Standard.Attribute" uid="8d78af4d-bc18-43f2-b1f9-3b3a7f9a3749"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -185,7 +161,31 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="datauuid" mc="Standard.Attribute" uid="963c80e4-b544-4a50-bd0a-ba3423de3ce6"/>
+          <ID name="set_time" mc="Standard.Attribute" uid="7becaa2f-1cd2-4f24-bda0-d6e97e3b3d32"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[set_time]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <FOREIGNID name="integer" mc="Standard.DataType" uid="00000004-0000-0009-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="datauuid" mc="Standard.Attribute" uid="ddf29130-3e4b-45a1-b9be-fb0e721acc18"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>

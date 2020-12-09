@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="activity.goal" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.activity.goal" version="4">
   <OBJECT>
-    <ID name="activity.goal" mc="Standard.Class" uid="58dfafec-f13c-4712-af8b-4f0c1ebe91b9"/>
+    <ID name="S2.activity.goal" mc="Standard.Class" uid="58dfafec-f13c-4712-af8b-4f0c1ebe91b9"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[activity.goal]]></ATT>
+      <ATT name="Name"><![CDATA[S2.activity.goal]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

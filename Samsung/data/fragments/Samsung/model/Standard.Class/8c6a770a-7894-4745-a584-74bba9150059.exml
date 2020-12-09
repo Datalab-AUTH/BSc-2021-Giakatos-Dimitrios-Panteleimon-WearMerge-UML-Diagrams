@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="food_frequent" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.food_frequent" version="4">
   <OBJECT>
-    <ID name="food_frequent" mc="Standard.Class" uid="8c6a770a-7894-4745-a584-74bba9150059"/>
+    <ID name="S2.food_frequent" mc="Standard.Class" uid="8c6a770a-7894-4745-a584-74bba9150059"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[food_frequent]]></ATT>
+      <ATT name="Name"><![CDATA[S2.food_frequent]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cycle.profile" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S1.cycle.profile" version="4">
   <OBJECT>
-    <ID name="cycle.profile" mc="Standard.Class" uid="974eef76-9924-418b-8b22-c054f77ab692"/>
+    <ID name="S1.cycle.profile" mc="Standard.Class" uid="974eef76-9924-418b-8b22-c054f77ab692"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[cycle.profile]]></ATT>
+      <ATT name="Name"><![CDATA[S1.cycle.profile]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

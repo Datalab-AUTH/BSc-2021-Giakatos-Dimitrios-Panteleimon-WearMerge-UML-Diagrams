@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="calories_burned.details" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.calories_burned.details" version="4">
   <OBJECT>
-    <ID name="calories_burned.details" mc="Standard.Class" uid="0db2fc02-941f-44b8-a0a6-947ad232b6f3"/>
+    <ID name="S2.calories_burned.details" mc="Standard.Class" uid="0db2fc02-941f-44b8-a0a6-947ad232b6f3"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[calories_burned.details]]></ATT>
+      <ATT name="Name"><![CDATA[S2.calories_burned.details]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
@@ -65,7 +65,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.tef_calorie" mc="Standard.Attribute" uid="e3439a70-e2ec-418c-8dbf-f456c63c7977"/>
+          <ID name="S2.calories_burned.tef_calorie" mc="Standard.Attribute" uid="e3439a70-e2ec-418c-8dbf-f456c63c7977"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -79,7 +79,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.tef_calorie]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.tef_calorie]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -89,7 +89,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.active_time" mc="Standard.Attribute" uid="da807e2e-df7a-408d-81a2-c14da6162a26"/>
+          <ID name="S2.calories_burned.active_time" mc="Standard.Attribute" uid="da807e2e-df7a-408d-81a2-c14da6162a26"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -103,7 +103,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.active_time]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.active_time]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -113,7 +113,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.rest_calorie" mc="Standard.Attribute" uid="0ff2081e-b133-440b-9bca-d50fc3c5da57"/>
+          <ID name="S2.calories_burned.rest_calorie" mc="Standard.Attribute" uid="0ff2081e-b133-440b-9bca-d50fc3c5da57"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -127,7 +127,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.rest_calorie]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.rest_calorie]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -137,7 +137,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.update_time" mc="Standard.Attribute" uid="9a90cff6-d869-496b-90ec-87142e9064bd"/>
+          <ID name="S2.calories_burned.update_time" mc="Standard.Attribute" uid="9a90cff6-d869-496b-90ec-87142e9064bd"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -151,7 +151,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.update_time]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.update_time]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -161,7 +161,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.create_time" mc="Standard.Attribute" uid="6ba7babd-87c5-4198-8069-03713691b055"/>
+          <ID name="S2.calories_burned.create_time" mc="Standard.Attribute" uid="6ba7babd-87c5-4198-8069-03713691b055"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -175,7 +175,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.create_time]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.create_time]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -185,7 +185,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.active_calorie" mc="Standard.Attribute" uid="3851285b-b1a3-4642-a8d5-0f54cbdc9196"/>
+          <ID name="S2.calories_burned.active_calorie" mc="Standard.Attribute" uid="3851285b-b1a3-4642-a8d5-0f54cbdc9196"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -199,7 +199,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.active_calorie]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.active_calorie]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -209,7 +209,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.deviceuuid" mc="Standard.Attribute" uid="99c44d62-edbc-45cc-a8bb-f2cbc488b0fc"/>
+          <ID name="S2.calories_burned.deviceuuid" mc="Standard.Attribute" uid="99c44d62-edbc-45cc-a8bb-f2cbc488b0fc"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -223,7 +223,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.deviceuuid]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.deviceuuid]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -233,7 +233,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.pkg_name" mc="Standard.Attribute" uid="5744465c-28fd-4da2-af6d-8df06c46cd27"/>
+          <ID name="S2.calories_burned.pkg_name" mc="Standard.Attribute" uid="5744465c-28fd-4da2-af6d-8df06c46cd27"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -247,7 +247,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.pkg_name]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.pkg_name]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -257,7 +257,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.datauuid" mc="Standard.Attribute" uid="0af1792b-c0d8-442c-9876-5f01a9d9fb09"/>
+          <ID name="S2.calories_burned.datauuid" mc="Standard.Attribute" uid="0af1792b-c0d8-442c-9876-5f01a9d9fb09"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -271,7 +271,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.datauuid]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.datauuid]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -281,7 +281,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="calories_burned.day_time" mc="Standard.Attribute" uid="034eada6-47b1-4e1e-ac71-01a04c0ace7a"/>
+          <ID name="S2.calories_burned.day_time" mc="Standard.Attribute" uid="034eada6-47b1-4e1e-ac71-01a04c0ace7a"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -295,7 +295,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[calories_burned.day_time]]></ATT>
+            <ATT name="Name"><![CDATA[S2.calories_burned.day_time]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>

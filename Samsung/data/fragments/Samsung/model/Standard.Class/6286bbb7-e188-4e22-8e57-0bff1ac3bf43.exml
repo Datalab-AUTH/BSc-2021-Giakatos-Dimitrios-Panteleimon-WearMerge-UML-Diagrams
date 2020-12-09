@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="breathing" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="S2.breathing" version="4">
   <OBJECT>
-    <ID name="breathing" mc="Standard.Class" uid="6286bbb7-e188-4e22-8e57-0bff1ac3bf43"/>
+    <ID name="S2.breathing" mc="Standard.Class" uid="6286bbb7-e188-4e22-8e57-0bff1ac3bf43"/>
     <PID name="samsung" mc="Standard.Package" uid="a4a29cb3-e8c7-479c-bda4-40a35fa2c364"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[breathing]]></ATT>
+      <ATT name="Name"><![CDATA[S2.breathing]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
