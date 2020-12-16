@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="apple" version="4">
+  <OBJECT>
+    <ID name="apple" mc="Standard.Package" uid="facb53ef-e2a1-4cbb-856c-91d3b2398490"/>
+    <PID name="Apple" mc="Standard.Project" uid="67dde54b-ae8a-4b1f-9312-c4a52b2b942f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[apple]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Me" mc="Standard.Class" uid="5ed5a1b1-cf33-4d35-886d-781a31210302"/>
+        <COMPID name="Record" mc="Standard.Class" uid="d2798176-cf36-429c-b6fe-6b0f8af04a52"/>
+        <COMPID name="Correlation" mc="Standard.Class" uid="c0307d80-3a54-4d02-9f87-cf039bb1bb9c"/>
+        <COMPID name="Workout" mc="Standard.Class" uid="94312525-36f8-4f04-83d5-f228a34d410a"/>
+        <COMPID name="Workout.WorkoutEvent" mc="Standard.Class" uid="22196958-e45a-4f42-9da4-93011818161c"/>
+        <COMPID name="Workout.WorkoutRoute" mc="Standard.Class" uid="8da2ac7a-cc88-4522-8fcf-733c3f32b6a2"/>
+        <COMPID name="Workout.WorkoutRoute.FileReference" mc="Standard.Class" uid="796eea21-bc5d-463f-b3d9-787d667a4f02"/>
+        <COMPID name="ActivitySummary" mc="Standard.Class" uid="c840c212-394b-4e44-9b18-8c6f1357776c"/>
+        <COMPID name="A1.MetadataEntry" mc="Standard.Class" uid="29435f55-1bbc-46b3-ad92-a5b9ef2f0d71"/>
+        <COMPID name="Record.HeartRateVariabilityMetadataList.InstantaneousBeatsPerMinute" mc="Standard.Class" uid="38fd6e9e-f8cb-45a0-8d55-0dce970b069a"/>
+        <COMPID name="ClinicalRecord" mc="Standard.Class" uid="637e189f-71f3-443c-a9c0-88129134af61"/>
+        <COMPID name="Audiogram" mc="Standard.Class" uid="68209cb4-74d7-466f-85cc-94d3efb99391"/>
+        <COMPID name="SensitivityPoint" mc="Standard.Class" uid="382ebb36-ef2f-4b17-8a38-3c012e0bf5ac"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Apple Watch Series 2 Class diagram" mc="Standard.ClassDiagram" uid="27386300-678c-4b6f-8c55-bb116b61c195"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

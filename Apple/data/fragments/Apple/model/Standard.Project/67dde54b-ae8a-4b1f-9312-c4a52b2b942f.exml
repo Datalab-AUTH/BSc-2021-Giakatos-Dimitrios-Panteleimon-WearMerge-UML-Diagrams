@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Apple" version="4">
+  <OBJECT>
+    <ID name="Apple" mc="Standard.Project" uid="67dde54b-ae8a-4b1f-9312-c4a52b2b942f"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Apple]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="apple" mc="Standard.Package" uid="facb53ef-e2a1-4cbb-856c-91d3b2398490"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Apple" mc="Infrastructure.DiagramSet" uid="ea9db594-6798-4822-8d52-521640235d0b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
