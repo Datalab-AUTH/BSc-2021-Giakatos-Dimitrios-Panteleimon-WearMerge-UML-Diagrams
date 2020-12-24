@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Fitbit" version="4">
+  <OBJECT>
+    <ID name="Fitbit" mc="Infrastructure.DiagramSet" uid="532e483c-1c19-429b-99e0-a5eef57ed9e0"/>
+    <PID name="Fitbit" mc="Standard.Project" uid="d3a379ab-4c52-417d-9106-4bc103bb62fb"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Fitbit]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

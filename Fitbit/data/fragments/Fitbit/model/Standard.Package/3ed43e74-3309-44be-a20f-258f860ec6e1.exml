@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="fitbit" version="4">
+  <OBJECT>
+    <ID name="fitbit" mc="Standard.Package" uid="3ed43e74-3309-44be-a20f-258f860ec6e1"/>
+    <PID name="Fitbit" mc="Standard.Project" uid="d3a379ab-4c52-417d-9106-4bc103bb62fb"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[fitbit]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Body" mc="Standard.Class" uid="12d74e33-79ef-4236-8bee-7e3d7c1d6f44"/>
+        <COMPID name="Foods" mc="Standard.Class" uid="62513951-08fa-4579-a410-dbaffba672e5"/>
+        <COMPID name="Activities" mc="Standard.Class" uid="09d81b36-0dd5-415c-b396-66ffb76437ac"/>
+        <COMPID name="Sleep" mc="Standard.Class" uid="98c4211b-ff85-4a0f-a47d-0189c02ee2b7"/>
+        <COMPID name="Daily Totals" mc="Standard.Class" uid="09a2d07c-cb24-46a6-9e71-e0221e06d8ad"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Fitbit Sense Class diagram" mc="Standard.ClassDiagram" uid="06376ded-118d-46fa-b4be-79e038b87076"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

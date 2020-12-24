@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Garmin" version="4">
+  <OBJECT>
+    <ID name="Garmin" mc="Standard.Project" uid="dfa52a5a-97b6-4fff-bd9a-a9f1c1860153"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Garmin]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="garmin" mc="Standard.Package" uid="57018db6-de7f-4c95-bc97-b5ff55dbef91"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Garmin" mc="Infrastructure.DiagramSet" uid="ba077fe2-332d-4c60-aad5-c04f6f14cbf8"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
