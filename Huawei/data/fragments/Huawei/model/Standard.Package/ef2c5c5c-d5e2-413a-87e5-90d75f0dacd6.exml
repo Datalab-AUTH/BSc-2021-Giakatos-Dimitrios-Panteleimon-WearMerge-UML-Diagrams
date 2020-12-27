@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="huawei" version="4">
+  <OBJECT>
+    <ID name="huawei" mc="Standard.Package" uid="ef2c5c5c-d5e2-413a-87e5-90d75f0dacd6"/>
+    <PID name="Huawei" mc="Standard.Project" uid="da346878-2fd1-45ea-8afd-ea620ac754f2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[huawei]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="health detail data" mc="Standard.Class" uid="9a8225dc-f0e7-4620-8150-a7bbb7409c92"/>
+        <COMPID name="motion path detail data" mc="Standard.Class" uid="d048c3f0-eb08-43d1-b9ea-9236091bd795"/>
+        <COMPID name="sport per minute merged data" mc="Standard.Class" uid="97c7f958-5521-4883-ae72-c3f1ecdc9dbf"/>
+        <COMPID name="sportDataUserData" mc="Standard.Class" uid="b012c5b0-a9d8-40f4-9d82-4f9689c68ffe"/>
+        <COMPID name="1-user basic info" mc="Standard.Class" uid="0ac6cfe7-92d1-46cd-8201-61f4a6847e07"/>
+        <COMPID name="2-user goal info" mc="Standard.Class" uid="e0f838be-306e-4d63-b8c2-9274b46363ac"/>
+        <COMPID name="3-user evaluation info" mc="Standard.Class" uid="11c15249-0025-4abc-bd96-a735053ee7bc"/>
+        <COMPID name="4-user config info" mc="Standard.Class" uid="1e892f9d-58d6-4385-947f-638f26f67070"/>
+        <COMPID name="5-user device info" mc="Standard.Class" uid="9a2d42c4-6de7-42f2-b395-946518785fc9"/>
+        <COMPID name="6-user privacy record" mc="Standard.Class" uid="cc97a9d8-ddfb-4017-b322-528c1157dbeb"/>
+        <COMPID name="7-user achievement info" mc="Standard.Class" uid="de2666dd-8523-4e59-ac49-1e7334b73947"/>
+        <COMPID name="8-user medal info" mc="Standard.Class" uid="795a8f11-dc93-41b4-8244-d723918ead97"/>
+        <COMPID name="9-user health daily statistics" mc="Standard.Class" uid="f95ce38e-81c2-4ebe-b563-8b32e8fc5a73"/>
+        <COMPID name="Heart" mc="Standard.Class" uid="5145990b-79bf-4d42-855b-fefc45bae692"/>
+        <COMPID name="Sleep" mc="Standard.Class" uid="8f49a559-8a1e-4fb0-b6ab-777d5ac55a19"/>
+        <COMPID name="Merge" mc="Standard.Class" uid="350f41d7-6a31-4132-84f7-30abd01040b8"/>
+        <COMPID name="10-user sport daily statistics" mc="Standard.Class" uid="3f87e7ce-3b1f-43fc-85a3-4cf55068a1b5"/>
+        <COMPID name="11-sport daily dimen statistics" mc="Standard.Class" uid="755a761b-f1a2-4d15-868f-1c7c2f8612fc"/>
+        <COMPID name="sportBasicInfoData" mc="Standard.Class" uid="a7794053-49a3-4dd2-a1c1-f67dbdee74a6"/>
+        <COMPID name="12-user best running record" mc="Standard.Class" uid="39b947b0-2130-4414-af8e-718868970e21"/>
+        <COMPID name="13-user course info" mc="Standard.Class" uid="cfd4abd7-d7b2-4d66-a2b0-3e60b053b702"/>
+        <COMPID name="14-user running plan info" mc="Standard.Class" uid="2a0e362d-96a6-4f52-8c64-85430d70533b"/>
+        <COMPID name="15-completed running record" mc="Standard.Class" uid="742305d1-ada7-4f95-8b75-84f993608ac0"/>
+        <COMPID name="16-user fitness plan info" mc="Standard.Class" uid="1e9cb018-fba0-41f9-a4dc-62d170a52683"/>
+        <COMPID name="17-completed fitness record" mc="Standard.Class" uid="3a837d68-8d2d-4879-8c10-c6f93c10921b"/>
+        <COMPID name="SportsHealth-Data" mc="Standard.Class" uid="386a3944-85a9-480b-a4ba-210b4694d508"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Huawei Watch GT 2 Class diagram" mc="Standard.ClassDiagram" uid="30228d60-bf61-4075-a353-2d10667dd248"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

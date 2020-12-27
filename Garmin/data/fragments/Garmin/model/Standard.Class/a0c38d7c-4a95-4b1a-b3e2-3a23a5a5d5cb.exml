@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="G6_A OR G6_B OR G6_C" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Custom class" version="4">
   <OBJECT>
-    <ID name="G6_A OR G6_B OR G6_C" mc="Standard.Class" uid="a0c38d7c-4a95-4b1a-b3e2-3a23a5a5d5cb"/>
+    <ID name="Custom class" mc="Standard.Class" uid="a0c38d7c-4a95-4b1a-b3e2-3a23a5a5d5cb"/>
     <PID name="garmin" mc="Standard.Package" uid="57018db6-de7f-4c95-bc97-b5ff55dbef91"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[G6_A OR G6_B OR G6_C]]></ATT>
+      <ATT name="Name"><![CDATA[Custom class]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="G5.Golg-CLUB_TYPES" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="G5.Golf-CLUB_TYPES" version="4">
   <OBJECT>
-    <ID name="G5.Golg-CLUB_TYPES" mc="Standard.Class" uid="7e30e661-cfdc-4232-87c0-4e3b18e03ee1"/>
+    <ID name="G5.Golf-CLUB_TYPES" mc="Standard.Class" uid="7e30e661-cfdc-4232-87c0-4e3b18e03ee1"/>
     <PID name="garmin" mc="Standard.Package" uid="57018db6-de7f-4c95-bc97-b5ff55dbef91"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[G5.Golg-CLUB_TYPES]]></ATT>
+      <ATT name="Name"><![CDATA[G5.Golf-CLUB_TYPES]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
@@ -229,6 +229,30 @@
           <DEPENDENCIES>
             <LINK relation="Type">
               <FOREIGNID name="boolean" mc="Standard.DataType" uid="00000004-0000-0005-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="preparedOn" mc="Standard.Attribute" uid="e8eb8e43-5b21-451b-b285-dff97f9ac90b"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[preparedOn]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="Custom class" mc="Standard.Class" uid="a0c38d7c-4a95-4b1a-b3e2-3a23a5a5d5cb"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

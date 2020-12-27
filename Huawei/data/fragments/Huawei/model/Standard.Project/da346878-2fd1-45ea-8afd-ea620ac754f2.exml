@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Huawei" version="4">
+  <OBJECT>
+    <ID name="Huawei" mc="Standard.Project" uid="da346878-2fd1-45ea-8afd-ea620ac754f2"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Huawei]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="huawei" mc="Standard.Package" uid="ef2c5c5c-d5e2-413a-87e5-90d75f0dacd6"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Huawei" mc="Infrastructure.DiagramSet" uid="2666ad04-7ea5-408e-81a5-895463c77992"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
