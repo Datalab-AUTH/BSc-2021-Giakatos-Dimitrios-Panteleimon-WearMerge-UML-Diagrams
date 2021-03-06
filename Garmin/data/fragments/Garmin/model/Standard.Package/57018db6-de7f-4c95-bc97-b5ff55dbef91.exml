@@ -21,24 +21,24 @@
         <COMPID name="G1_trainingPlans.trainingScheduledNoteDTOS" mc="Standard.Class" uid="ba7ab5a3-0fb8-4d15-a8b5-94dacb194b39"/>
         <COMPID name="G1_workout" mc="Standard.Class" uid="937db8a3-954c-48db-8103-188baf3973c1"/>
         <COMPID name="G2.ActivityVo2Max_id1_id2_id3" mc="Standard.Class" uid="2aec91f4-d710-4141-90db-31ddef5e1f3f"/>
-        <COMPID name="G3.UDSFile_date" mc="Standard.Class" uid="1b77d187-c5b6-47eb-9f1d-34b4144f37a9"/>
         <COMPID name="G3.user_profile" mc="Standard.Class" uid="35c5fabd-1bf6-4d92-be72-b010ae8dfc0e"/>
         <COMPID name="G3.user_settings" mc="Standard.Class" uid="af108c22-3fe4-4739-a82f-682f72cbf049"/>
         <COMPID name="G3.UserGoal_date" mc="Standard.Class" uid="15aa2b90-3f02-4eec-b3b9-b9112c5d1764"/>
         <COMPID name="G4.date_date_id_sleepData" mc="Standard.Class" uid="c41860bd-d010-42a8-a608-a8907779c285"/>
         <COMPID name="G5.Golf-CLUB" mc="Standard.Class" uid="b97d4fcc-6171-42d5-9581-201723e482c3"/>
-        <COMPID name="G6_A OR G6_B OR G6_C" mc="Standard.Class" uid="a0c38d7c-4a95-4b1a-b3e2-3a23a5a5d5cb"/>
-        <COMPID name="G5.Golg-CLUB_TYPES" mc="Standard.Class" uid="7e30e661-cfdc-4232-87c0-4e3b18e03ee1"/>
+        <COMPID name="Custom class" mc="Standard.Class" uid="a0c38d7c-4a95-4b1a-b3e2-3a23a5a5d5cb"/>
+        <COMPID name="G5.Golf-CLUB_TYPES" mc="Standard.Class" uid="7e30e661-cfdc-4232-87c0-4e3b18e03ee1"/>
         <COMPID name="G5.Golf-COMMENTS" mc="Standard.Class" uid="0fbb5c95-4b7f-4798-89bc-24c94ccd2535"/>
         <COMPID name="G5.Golf-COURSE" mc="Standard.Class" uid="0ad760dd-2f12-4e91-81f0-e7c1450e2d5f"/>
         <COMPID name="G5.Golf-MEDIA" mc="Standard.Class" uid="e048be28-b5e4-4c4b-b8b5-5ec3b9f27cce"/>
         <COMPID name="G5.Golf-SCORECARD" mc="Standard.Class" uid="cdd939e7-0f91-4168-a090-407e71812f27"/>
         <COMPID name="G5.Golf-SHOT" mc="Standard.Class" uid="d5193cab-2650-45dd-9e2a-d34b4c7e7aeb"/>
         <COMPID name="G5.Golf-SWING" mc="Standard.Class" uid="6212ac9f-9fa5-4a63-89ef-bef71e3c91db"/>
-        <COMPID name="G7.user" mc="Standard.Class" uid="f9ebd366-ae83-4139-8555-e0f2a6c3986b"/>
+        <COMPID name="DI_CONNECT_IQ.DI_CONNECT_IQ.user" mc="Standard.Class" uid="f9ebd366-ae83-4139-8555-e0f2a6c3986b"/>
         <COMPID name="IT_CONSENT_HISTORY.consentHistory" mc="Standard.Class" uid="c3a9ec7c-d7e3-49ec-8505-9ec82bb32b84"/>
         <COMPID name="IT_DEVICE_AND_CONTENT.deviceandcontent" mc="Standard.Class" uid="b851326f-cfcc-41d3-ba89-46388281f8ec"/>
         <COMPID name="IT_GLOBAL_EVENT.events" mc="Standard.Class" uid="842215d7-1361-4a0b-b5b3-d75082b2fe08"/>
+        <COMPID name="G3.UDSFile_date" mc="Standard.Class" uid="f59bd396-0fae-43e4-ac56-7a3ae62199f8"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Garmin Fenix 3 HR Class diagram" mc="Standard.ClassDiagram" uid="3a69c1b6-5bf7-44cb-8dd6-7a7a6f3698f5"/>
